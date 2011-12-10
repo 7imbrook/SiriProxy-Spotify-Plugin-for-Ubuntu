@@ -1,1 +1,4 @@
-This is a work in progress plugin for SiriProxy. It will control Spotify that running on Ubuntu 11.10. I cant get bash commands to run in the plugin, but can get them to run in test_spotify.rb when using $ruby test_spotify, and not rvmsudo test_spotify. Im new to ruby and if theres an easier way to do this, please let me know.
+This is a work in progress plugin for SiriProxy.
+It will control Spotify that running on Ubuntu 11.10. I cant get bash commands to run in the plugin,
+but can get them to run in test_spotify.rb when using $ruby test_spotify, and not rvmsudo test_spotify.
+Im new to ruby and if theres an easier way to do this, please let me know.
